@@ -1,1 +1,1 @@
-# sortowanie-b-belkowe
+# Sortowanie bąbelkowe
